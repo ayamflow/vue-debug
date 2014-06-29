@@ -1,0 +1,30 @@
+{
+  "name": "vue-debug",
+  "version": "0.0.1",
+  "description": "A Vue.js plugin for debug helpers",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayamflow/vue-debug.git"
+  },
+  "keywords": [
+    "vue",
+    "debug",
+    "log"
+  ],
+  "author": "= <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayamflow/vue-debug/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.20.1",
+    "vue": "~0.10.5"
+  }
+}
