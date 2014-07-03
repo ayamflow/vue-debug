@@ -6,7 +6,16 @@ A Vue.js plugin for debug helpers.
 ## How to use
 
 ### 1. Install the plugin.
-With npm: `npm i vue-debug --save`
+With npm:
+```
+npm i vue-debug --save
+```
+
+With Component(1):
+```
+component install ayamflow/vue-debug
+```
+
 
 ### 2. Mount
 
