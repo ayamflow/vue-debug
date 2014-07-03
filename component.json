@@ -1,0 +1,17 @@
+{
+  "name": "vue-debug",
+  "repo": "ayamflow/vue-debug",
+  "description": "A Vue.js plugin for debug helpers",
+  "version": "0.0.1",
+  "keywords": [
+    "vue",
+    "debug",
+    "log"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": [
+    "src/index.js",
+    "src/log.js"
+  ]
+}
