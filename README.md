@@ -1,6 +1,8 @@
 vue-debug
 =========
 
+DEPRECATED IN VUE 0.11+: use Vue.$log instead
+
 A Vue.js plugin for debug helpers.
 
 ## How to use
